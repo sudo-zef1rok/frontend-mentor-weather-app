@@ -61,8 +61,10 @@ http://localhost:3000
 
 > P.S. я делал на базе бесплатного тарифа OWM
 
-## Автор
+## Автор и ссылки
 
 Evgeniy
 
 Связь со мной - **[@Zef1rchik](https://t.me/Zef1rchik)**
+
+[Демо-сайт](https://frontend-mentor-weather-app-six.vercel.app/) (клик)
