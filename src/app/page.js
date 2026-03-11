@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 
-const DEFAULT_CITY = "Путёвка, Брянск";
+const DEFAULT_CITY = "Брянск";
 
 const iconForCode = (code) => {
   if (code.startsWith("01")) return "/assets/images/icon-sunny.webp";
