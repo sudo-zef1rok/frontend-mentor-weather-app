@@ -67,4 +67,4 @@ Evgeniy
 
 Связь со мной - **[@Zef1rchik](https://t.me/Zef1rchik)**
 
-[Демо-сайт](https://frontend-mentor-weather-app-six.vercel.app/) (клик)
+[Демо-сайт](https://weather-app.zef1r.su/) (клик)
